@@ -1,0 +1,15 @@
+{
+  "name": "node_exam2",
+  "version": "1.0.0",
+  "description": "projekt zaliczeniowy na studia podyplomowe javascript developer / politechnika bialostocka",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wiktor Sacharczuk",
+  "license": "ISC"
+}
