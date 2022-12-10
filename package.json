@@ -4,7 +4,7 @@
   "description": "projekt zaliczeniowy na studia podyplomowe javascript developer / politechnika bialostocka",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   },
   "devDependencies": {},
   "scripts": {
